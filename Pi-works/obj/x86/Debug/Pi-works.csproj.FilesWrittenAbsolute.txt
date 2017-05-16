@@ -1,0 +1,5 @@
+/home/osman/WorkspaceCs/Pi-works/Pi-works/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/osman/WorkspaceCs/Pi-works/Pi-works/bin/Debug/Pi-works.exe.mdb
+/home/osman/WorkspaceCs/Pi-works/Pi-works/bin/Debug/Pi-works.exe
+/home/osman/WorkspaceCs/Pi-works/Pi-works/obj/x86/Debug/Pi-works.exe
+/home/osman/WorkspaceCs/Pi-works/Pi-works/obj/x86/Debug/Pi-works.exe.mdb
